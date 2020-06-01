@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343792213318",
+    "firebase_url": "https://raintrackersv.firebaseio.com",
+    "project_id": "raintrackersv",
+    "storage_bucket": "raintrackersv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343792213318:android:440ba9703250c70e2f5947",
+        "android_client_info": {
+          "package_name": "com.julio.raintrackersv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343792213318-ick4sst1euuj3142hgj26411bhophh5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.julio.raintrackersv",
+            "certificate_hash": "51de5dedc815ecdae4bd03d3e706e79ab3f48db6"
+          }
+        },
+        {
+          "client_id": "343792213318-vpmd124hb629dq2bs4i9a0cqfuatshqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZDl2D_apdG4E-xbzST_CgWuWke4AWlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343792213318-vpmd124hb629dq2bs4i9a0cqfuatshqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
